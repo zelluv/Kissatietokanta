@@ -2,6 +2,7 @@
 Used:
 * Ruby version 2.1.2
 * Rails version 4.1.6
+* Unicorn 4.8.3
 * postgresql version 9.3  
 * paperclip version 4.2.0
 
